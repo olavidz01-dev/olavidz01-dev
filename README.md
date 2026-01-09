@@ -31,7 +31,8 @@ I specialize in translating complex datasets into intuitive dashboards, predicti
 
 ## 📁 Featured Projects
 
-🔹🏢 **Employee Retention, Performance Tracking, and Salary Analysis - NextGen Corp** 🔗(https://github.com/olavidz01-dev/employee_success_analysis_with_SQL)
+🔹🏢 **Employee Retention, Performance Tracking, and Salary Analysis - NextGen Corp**
+🔗(https://github.com/olavidz01-dev/employee_success_analysis_with_SQL)
   
 🔹**Interactive BI Dashboards** – Executive-ready Power BI and Tableau dashboards  
 🔹 **Healthcare Analytics** – Operational and workforce insights for better outcomes  
