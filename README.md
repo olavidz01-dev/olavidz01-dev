@@ -1,9 +1,9 @@
 # 👋 Hi there, I’m David Okeleye — Data Analyst
 
 Welcome to my GitHub profile!  
-I’m a **Data Analyst** with strong expertise in **business intelligence (BI), data visualization, and statistical analysis**, delivering **actionable insights** that support strategic decision-making across **technology, healthcare, travel, entertainment, and financial services**.
+I’m a Data Analyst with strong expertise in business intelligence (BI), data visualization, and statistical analysis, delivering actionable insights that support strategic decision-making across technology, healthcare, travel, entertainment, and financial services.
 
-I specialize in translating **complex datasets** into **intuitive dashboards, predictive analyses, and trend-driven insights** that improve performance, optimize operations, and empower leaders to make confident, data-driven decisions.
+I specialize in translating complex datasets into intuitive dashboards, predictive analyses, and trend-driven insights that improve performance, optimize operations, and empower leaders to make confident, data-driven decisions.
 
 ---
 
