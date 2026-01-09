@@ -45,6 +45,7 @@ I specialize in translating complex datasets into intuitive dashboards, predicti
 
 - 💼 **LinkedIn:** *(https://www.linkedin.com/in/david-okeleye001/)*  
 - 📧 **Email:** okeleyedavid2021@gmail.com  
-- 🌐 **Portfolio:** https://bit.ly/3N5c1p7  
+- 🌐 **Portfolio:** https://bit.ly/3N5c1p7
+- 🐙 **GitHub:** https://github.com/olavidz01-dev
 
 > **“Data is potential. Analytics makes it actionable.”**
