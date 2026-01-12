@@ -31,7 +31,7 @@ I specialize in translating complex datasets into intuitive dashboards, predicti
 
 ## 📁 Featured Projects
 
--- ☕ **Café_harmony_sales_analysis_with_Excel**
+🔹☕ **Café_harmony_sales_analysis_with_Excel**
  🔗 [View Project repo] (https://github.com/olavidz01-dev/cafe_harmony_sales_analysis_with_Excel)
 
 🔹🏢 **Employee Retention, Performance Tracking, and Salary Analysis - NextGen Corp**
