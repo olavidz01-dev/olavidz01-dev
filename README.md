@@ -21,7 +21,7 @@ I specialize in translating complex datasets into intuitive dashboards, predicti
 
 | **Skillset** | **Tools & Techniques** |
 |--------------|------------------------|
-| **Data Analysis** | Excel, Power BI, SQL, Databricks |
+| **Data Analysis** | Excel, Power BI, SQL, Looker Studio |
 | **Data Visualization** | Power BI, Tableau |
 | **Data Cleaning & Preparation** | Excel, SQL, Power Query |
 | **Business Intelligence & Insights** | KPI tracking, dashboards, executive reporting |
